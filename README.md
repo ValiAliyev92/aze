@@ -1,4 +1,4 @@
-# aze
+# pakistanli ustalar
 import telebot
 from mailcheck import MailCheck
 MyTooken = "YOUR TOKEN"
